@@ -1,0 +1,27 @@
+*{
+		margin:0;
+		padding:0;
+		box-sizing:border-box;
+		font-family: 'Lato', sans-serif;
+	}
+	#sec-1{
+		background-image:linear-gradient(#08203ed6,#08203ed6),url("../img/corp.jpg");
+	}
+	.fa,.bi{
+		color:blue;
+	}
+	p{
+		color:gray;
+	}
+	input{
+		outline:none;
+		border-left:none;
+		border-right:none;
+		border-top:none;
+	}
+	.padd-last{
+		padding-bottom:70px!important;
+	}
+	.hover-back{
+		background-color:#08203ed6!important;
+	}
